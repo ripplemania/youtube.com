@@ -1,2 +1,2 @@
 # youtube.com
-Ripplemania youtube PayID
+Ripplemania youtube 
